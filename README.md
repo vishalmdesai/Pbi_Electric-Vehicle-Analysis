@@ -22,3 +22,5 @@ With the rise of electric vehicles (EVs), understanding adoption trends is cruci
 Source: Kaggle - Electric Vehicle Population  
 Rows: 150,482  
 Columns: 17  
+
+<img width="593" alt="Image" src="https://github.com/user-attachments/assets/a744af7c-73a0-4340-841b-80e2f980bc28" />
