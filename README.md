@@ -23,4 +23,4 @@ Source: Kaggle - Electric Vehicle Population
 Rows: 150,482  
 Columns: 17  
 
-<img width="593" alt="Image" src="https://github.com/user-attachments/assets/a744af7c-73a0-4340-841b-80e2f980bc28" />
+<img width="594" alt="Image" src="https://github.com/user-attachments/assets/0e999bae-ab9f-42d1-b476-26e9fca5df09" />
